@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://www.ddhkt.com/upload/app/ddhkt.ipa</string>
 				</dict>
+<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://ycjy.bjdskxx.com/ipaWeb/DskEduPush/icon_57_dskedupush.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://ycjy.bjdskxx.com/ipaWeb/DskEduPush/icon_512_dskedupush.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
